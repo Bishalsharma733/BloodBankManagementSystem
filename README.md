@@ -15,9 +15,9 @@ Blood Bank Management System is a computerized system designed for user to manag
 
 ## Images
 
-![LOGIN!](images/1.jpg)
-![LOGIN!](images/2.jpg)
-![LOGIN!](images/3.jpg)
-![LOGIN!](images/4.jpg)
-![LOGIN!](images/5.jpg)
-![LOGIN!](images/6.jpg)
+![SC1!](images/1.jpg) 
+![SC2!](images/2.jpg) 
+![SC3!](images/3.jpg) 
+![SC4!](images/4.jpg) 
+![SC5!](images/5.jpg) 
+![SC6!](images/6.jpg) 
